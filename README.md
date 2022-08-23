@@ -1,3 +1,8 @@
+![GitHub top language](https://img.shields.io/github/languages/top/michealespinola/runWsusOfflineUpdate
+)
+![GitHub](https://img.shields.io/github/license/michealespinola/runWsusOfflineUpdate)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2RYY4BETEQAJC)
+
 # runWsusOfflineUpdate
 
 This is a bash script to selectively start and stop the wsusoffline script on Synology NAS. This allows you to more granularly control when it runs; such as manually, a scheduled system task, or executed by other mechanisms.
